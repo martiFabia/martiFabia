@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Computer Engineering student at University of Pisa.</p>
+<p align="left">I'm an Artificial Intelligence and Data Engineering Master's Student.<br> I have a Bachelor's degree in Computer Engineering <br> University of Pisa</p>
 
 ###
 
