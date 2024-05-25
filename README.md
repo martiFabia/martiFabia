@@ -34,9 +34,10 @@
 </div>
 
 ###
+###
 
 <div align="center">
-  <a href = "https://www.linkedin.com/in/martina-fabiani-3b41a6307" target="_blank">
+  <a href = "https://www.linkedin.com/in/martina-fabiani-3b41a6307">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=martifabia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150"       alt="languages graph"  />
   </a>
 </div>
